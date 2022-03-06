@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Cossacks",
+		"name": "Garila",
 		"unitType": "Gunpowder",
 		"replaces": "Musketman",
-		"uniqueTo": "Ukraine",
-		"movement": 2,
-		"strength": 35,
+		"uniqueTo": "Bangladesh",
+		"movement": 5,
+		"strength": 70,
 		"cost": 200,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"uniques": ["+[25]% combat bonus in [Grassland]","+[25]% combat bonus in [Forest]","+[25]% combat bonus in [Plains]"],
+		"uniques": ["+[50]% combat bonus in [Grassland]","+[50]% combat bonus in [Forest]","+[50]% combat bonus in [Plains]"],
 		"attackSound": "shot"
 	},
 ]
