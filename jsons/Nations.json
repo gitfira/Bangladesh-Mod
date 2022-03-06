@@ -59,7 +59,7 @@
  "\"Borrows\" city names from other civilizations in the game",
  "Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns.",
  "May capture killed [All] units", "Can embark and move over Coasts and Oceans immediately",
- "+[5]% defensive strength for cities,
+ "+[5]% defensive strength for cities
 			   ],
 		"cities": [
 			"Kyiv",
